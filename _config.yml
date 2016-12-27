@@ -12,7 +12,7 @@ title: 生活的爱官方网站
 event_label: Events
 
 description: > # this means to ignore newlines until "baseurl:"
-  This is elamordelavida in Shanghai store offcial website , WLECOME!
+  This is elamordelavida store in Shanghai offcial website , WLECOME!
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
